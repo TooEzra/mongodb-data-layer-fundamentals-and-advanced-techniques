@@ -9,9 +9,9 @@ This repository contains a JavaScript file (queries.js) designed to run various 
 
 ## 🚀 Prerequisites
 
-Node.js: Ensure Node.js is installed on your system.
-MongoDB: A running MongoDB instance (e.g., mongod on port 27017).
-MongoDB Driver: Install the MongoDB Node.js driver by running:npm install mongodb
+#Node.js: Ensure Node.js is installed on your system.
+#MongoDB: A running MongoDB instance (e.g., mongod on port 27017).
+#MongoDB Driver: Install the MongoDB Node.js driver by running:npm install mongodb
 
 -----
 
